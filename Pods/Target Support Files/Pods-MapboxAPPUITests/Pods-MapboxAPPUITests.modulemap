@@ -1,0 +1,6 @@
+framework module Pods_MapboxAPPUITests {
+  umbrella header "Pods-MapboxAPPUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
